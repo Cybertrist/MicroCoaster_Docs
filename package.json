@@ -1,0 +1,16 @@
+{
+  "name": "microcoaster-docs",
+  "version": "1.0.0",
+  "description": "Documentation MicroCoaster - En cours de construction",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["docs", "documentation", "microcoaster"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
