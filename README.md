@@ -1,6 +1,6 @@
 <div align="center">
 
-# MicroCoaster — Documentation
+# MicroCoaster : documentation
 
 Page d'attente de la documentation produit MicroCoaster : compte à rebours, bascule de langue et rien de superflu.
 
