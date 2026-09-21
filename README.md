@@ -18,6 +18,8 @@ Un serveur Express qui sert du statique, rien de plus. Pas de générateur de si
 
 <img src="docs/sections/s03.png" alt="03 Lancer en local" width="100%">
 
+<img src="docs/blocs/01.png" alt="Terminal bash : lancer en local" width="100%">
+
 ```bash
 npm install
 npm start
