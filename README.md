@@ -33,4 +33,4 @@ L'idée est de remplacer `public/` par la sortie du générateur de documentatio
 
 ---
 
-<sub>Projet MicroCoaster · voir aussi <a href="https://github.com/Cybertrist/MicroCoaster_Forum">MicroCoaster_Forum</a> et l'organisation <a href="https://github.com/Microcoaster">MicroCoaster</a>, qui héberge l'application de pilotage et les firmwares des modules.</sub>
+<sub>MicroCoaster · Auteur : Cybertrist</sub>
